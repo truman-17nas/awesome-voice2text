@@ -28,8 +28,8 @@
   - [Overige](#overige)
 - [Open source versus benchmarks](#open-source-versus-benchmarks)
 - [Hoe kiezen](#hoe-kiezen)
-- [Bijdragen 贡献](#bijdragen-贡献)
-- [Stergeschiedenis](#stergeschiedenis)
+- [Bijdragen](#bijdragen)
+- [Star-Geschiedenis](#star-geschiedenis)
 - [Licentie](#licentie)
 
 ## Benchmarks (closed source)
@@ -289,17 +289,15 @@ Projecten die nog niet aan een categorie zijn toegewezen.
 - **Chinese-eerste invoer** → [VocoType-linux](https://github.com/LeonardNJU/VocoType-linux) — Python, C++, Shell; offline Linux Chinese spraakinvoer met FunASR Paraformer, IBus/Fcitx5, PTT-sneltoets en zinnenpolish.
 - **Zelf een transcriptie-API/server hosten** → [FunASR](https://github.com/modelscope/FunASR) — industriële ASR-toolkit met Paraformer, SenseVoice, VAD, diarisatie, streaming en OpenAI-compatibele API.
 
-## Bijdragen 贡献
+## Bijdragen
 
-Bijdragen zijn welkom — zie [CONTRIBUTING.md](CONTRIBUTING.md). Projecten moeten volledig open source, uitbreidbaar en lichtgewicht zijn; volg de beschrijvingsstijlgids (Engels, één regel, feitelijk, geen marketingflauwekul).
+Bijdragen zijn welkom — zie [CONTRIBUTING.md](CONTRIBUTING.md). Projecten moeten volledig open source, uitbreidbaar en lichtgewicht zijn; volg de stijlgids voor beschrijvingen (in het Engels, één regel, feitelijk, geen marketingflauwekul).
 
-Contributies zijn van harte welkom — raadpleeg [CONTRIBUTING.md](CONTRIBUTING.md). Projecten moeten volledig open source, uitbreidbaar en lichtgewicht zijn; houd je aan de beschrijvingstijlgids (Engels, één regel, feitelijk, geen marketingtaal).
-
-## Stergeschiedenis
+## Star-Geschiedenis
 
 ![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
 
-Stergroei over tijd voor de projecten met de meeste sterren in deze lijst. De repository zelf is privé tijdens review; de eigen stergeschiedenis wordt hier toegevoegd zodra deze publiek wordt.
+Star-groei over tijd voor de meest-gesternde projecten in deze lijst. De repository zelf is privé tijdens het reviewen; zijn eigen star-geschiedenis wordt hier toegevoegd zodra deze publiek wordt.
 
 ## Licentie
 

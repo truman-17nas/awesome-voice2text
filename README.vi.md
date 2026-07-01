@@ -29,7 +29,7 @@
 - [Mã nguồn mở so với sản phẩm tham chiếu](#mã-nguồn-mở-so-với-sản-phẩm-tham-chiếu)
 - [Cách chọn](#cách-chọn)
 - [Đóng góp](#đóng-góp)
-- [Lịch sử sao](#lịch-sử-sao)
+- [Lịch sử Star](#lịch-sử-star)
 - [Giấy phép](#giấy-phép)
 
 ## Sản phẩm tham chiếu (Mã nguồn đóng)
@@ -291,13 +291,13 @@ Các dự án chưa được xếp vào danh mục.
 
 ## Đóng góp
 
-Đóng góp luôn được chào đón — xem [CONTRIBUTING.md](CONTRIBUTING.md). Các dự án phải hoàn toàn mã nguồn mở, có thể mở rộng và nhẹ; vui lòng tuân theo hướng dẫn phong cách mô tả (tiếng Anh, một dòng, sự thật, không quảng cáo thái quá).
+Mọi đóng góp đều được hoan nghênh — xem [CONTRIBUTING.md](CONTRIBUTING.md). Các dự án phải hoàn toàn mã nguồn mở, có thể mở rộng và nhẹ; vui lòng tuân thủ hướng dẫn phong cách mô tả (bằng tiếng Anh, một dòng, mang tính thực tế, không quảng cáo thổi phồng).
 
-## Lịch sử sao
+## Lịch sử Star
 
 ![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
 
-Tăng trưởng sao theo thời gian của các dự án có nhiều sao nhất trong danh sách này. Repo hiện đang ở chế độ riêng tư trong quá trình xem xét; lịch sử sao của chính nó sẽ được thêm vào đây sau khi công khai.
+Sự tăng trưởng star theo thời gian đối với các dự án được gắn sao nhiều nhất trong danh sách này. Repo chính được giữ ở chế độ riêng tư trong quá trình kiểm duyệt; lịch sử star của chính nó sẽ được thêm vào đây sau khi công khai.
 
 ## Giấy phép
 

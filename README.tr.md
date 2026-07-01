@@ -28,7 +28,7 @@
   - [Diğer](#diğer)
 - [Açık Kaynak vs. Benchmarkler](#açık-kaynak-vs-benchmarkler)
 - [Nasıl Seçilir](#nasıl-seçilir)
-- [Katkıda Bulunma](#katkıda-bulunma)
+- [Katkı](#katkı)
 - [Yıldız Geçmişi](#yıldız-geçmişi)
 - [Lisans](#lisans)
 
@@ -289,17 +289,15 @@ Henüz bir kategoriye atanmamış projeler.
 - **Önce Çince giriş** → [VocoType-linux](https://github.com/LeonardNJU/VocoType-linux) — Python, C++, Shell; FunASR Paraformer, IBus/Fcitx5, PTT kısayol tuşu ve cümle düzenleme ile çevrimdışı Linux Çince ses girişi.
 - **Bir transkripsiyon API/sunucusu kendiniz barındırın** → [FunASR](https://github.com/modelscope/FunASR) — Endüstriyel ASR araç seti, Paraformer, SenseVoice, VAD, konuşmacı ayrımı, akış ve OpenAI uyumlu API ile.
 
-## Katkıda Bulunma
+## Katkı
 
-Katkılar memnuniyetle karşılanır — bkz. [CONTRIBUTING.md](CONTRIBUTING.md). Projeler tamamen açık kaynak, genişletilebilir ve hafif olmalıdır; lütfen açıklama stil kılavuzuna uyun (İngilizce, tek satır, gerçekçi, pazarlama havası yok).
-
-Katkı yapmak için projelerin tamamen açık kaynak, genişletilebilir ve hafif olması gerekir; lütfen açıklama stil kılavuzuna uyun (İngilizce, tek satır, gerçekçi, pazarlama havası yok).
+Katkılar memnuniyetle karşılanır — bkz. [CONTRIBUTING.md](CONTRIBUTING.md). Projeler tamamen açık kaynak, genişletilebilir ve hafif olmalıdır; lütfen açıklama stil kılavuzuna uyun (İngilizce olarak, tek satır, nesnel, pazarlama palavrası yok).
 
 ## Yıldız Geçmişi
 
 ![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
 
-Bu listedeki en çok yıldız alan projelerin zaman içindeki yıldız büyümesi. Bu repo inceleme sırasında özeldir; halka açıldığında kendi yıldız geçmişi buraya eklenecektir.
+Bu listedeki en çok yıldız alan projelerin zaman içindeki yıldız büyümesi. Depo kendisi inceleme sırasında özeldir; kendi yıldız geçmişi, herkese açık hale geldiğinde buraya eklenecektir.
 
 ## Lisans
 

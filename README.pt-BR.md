@@ -28,8 +28,8 @@
   - [Outros](#outros)
 - [Código aberto vs. referências](#código-aberto-vs-referências)
 - [Como escolher](#como-escolher)
-- [Contribuindo 贡献](#contribuindo-贡献)
-- [Histórico de estrelas](#histórico-de-estrelas)
+- [Contribuições](#contribuições)
+- [Histórico de Estrelas](#histórico-de-estrelas)
 - [Licença](#licença)
 
 ## Referências (Código Fechado)
@@ -289,17 +289,15 @@ Projetos ainda não atribuídos a uma categoria.
 - **Entrada em chinês** → [VocoType-linux](https://github.com/LeonardNJU/VocoType-linux) — Python, C++, Shell; entrada de voz chinesa offline para Linux usando FunASR Paraformer, IBus/Fcitx5, atalho PTT e polimento de frases.
 - **Self-host de API/servidor de transcrição** → [FunASR](https://github.com/modelscope/FunASR) — Toolkit ASR industrial com Paraformer, SenseVoice, VAD, diarização, streaming e API compatível com OpenAI.
 
-## Contribuindo 贡献
+## Contribuições
 
-Contribuições são bem-vindas — veja [CONTRIBUTING.md](CONTRIBUTING.md). Os projetos devem ser totalmente de código aberto, extensíveis e leves; por favor, siga o guia de estilo de descrições (inglês, uma linha, factual, sem exageros de marketing).
+Contribuições são bem-vindas — veja [CONTRIBUTING.md](CONTRIBUTING.md). Os projetos devem ser totalmente open source, extensíveis e leves; siga o guia de estilo das descrições (em inglês, uma linha, factual, sem linguagem de marketing vazia).
 
-欢迎投稿——请参阅 [CONTRIBUTING.md](CONTRIBUTING.md)。项目必须完全开源、可扩展、轻量级；请遵循描述风格指南（英文、一行、实事求是、无营销花哨）。
-
-## Histórico de estrelas
+## Histórico de Estrelas
 
 ![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
 
-Crescimento de estrelas ao longo do tempo para os projetos mais estrelados desta lista. O próprio repositório está privado durante revisão; seu próprio histórico de estrelas será adicionado aqui quando se tornar público.
+Crescimento de estrelas ao longo do tempo para os projetos mais estrelados desta lista. O repositório em si é privado durante a revisão; seu próprio histórico de estrelas será adicionado aqui assim que for tornado público.
 
 ## Licença
 

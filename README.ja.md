@@ -28,8 +28,8 @@
   - [その他](#その他)
 - [オープンソースと比較対象](#オープンソースと比較対象)
 - [選び方](#選び方)
-- [コントリビューション 貢献](#コントリビューション-貢献)
-- [スター履歴](#スター履歴)
+- [コントリビューション](#コントリビューション)
+- [Star 履歴](#star-履歴)
 - [ライセンス](#ライセンス)
 
 ## 比較対象（クローズドソース）
@@ -289,17 +289,15 @@ Swift と WhisperKit で構築されたネイティブ macOS 口述アプリ。�
 - **中国語優先の入力** → [VocoType-linux](https://github.com/LeonardNJU/VocoType-linux) — Python、C++、Shell；FunASR Paraformer、IBus/Fcitx5、PTT ホットキー、文の洗練化を備えた Linux オフライン中国語音声入力。
 - **文字起こし API/サーバーを自前でホストする** → [FunASR](https://github.com/modelscope/FunASR) — Paraformer、SenseVoice、VAD、話者分離、ストリーミング、OpenAI 互換 API を備えた産業用 ASR ツールキット。
 
-## コントリビューション 貢献
+## コントリビューション
 
-Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Projects must be fully open source, extensible, and lightweight; please follow the description style guide (English, one line, factual, no marketing fluff).
+コントリビューションを歓迎します — 詳しくは [CONTRIBUTING.md](CONTRIBUTING.md) を参照してください。プロジェクトは完全にオープンソースで、拡張性があり、軽量である必要があります。説明のスタイルガイド（英語で、1行、事実に基づき、マーケティング表現なし）に従ってください。
 
-コントリビューションを歓迎します — [CONTRIBUTING.md](CONTRIBUTING.md) を参照してください。プロジェクトは完全にオープンソースで、拡張可能で、軽量である必要があります。説明のスタイルガイド（英文、1行、事実に基づき、マーケティング的な誇張なし）に従ってください。
-
-## スター履歴
+## Star 履歴
 
 ![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
 
-このリスト内で最もスター数の多いプロジェクトの時系列スター推移。本リポジトリは審査中に非公開です。公開後、自身のスター履歴もここに追加されます。
+このリストで最もスター数の多いプロジェクトの経時的なスター増加状況です。リポジトリ自体はレビュー中はプライベートです。公開後にそのスター履歴をこちらに追加します。
 
 ## ライセンス
 

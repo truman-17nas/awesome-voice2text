@@ -29,7 +29,7 @@
 - [開源專案與對照組](#開源專案與對照組)
 - [如何選擇](#如何選擇)
 - [貢獻](#貢獻)
-- [星星歷史](#星星歷史)
+- [Star 歷史](#star-歷史)
 - [授權條款](#授權條款)
 
 ## 評測對照（閉源）
@@ -291,15 +291,13 @@ Android 或 iOS 上的獨立語音轉錄應用程式，而非輸入法鍵盤。
 
 ## 貢獻
 
-歡迎貢獻——請參閱 [CONTRIBUTING.md](CONTRIBUTING.md)。專案必須完全開源、可擴充且輕量化；請遵循描述風格指南（英文、一行、事實陳述、無行銷廢話）。
+歡迎貢獻 —— 參見 [CONTRIBUTING.md](CONTRIBUTING.md)。專案必須完全開源、可擴展且輕量；請遵循描述風格指南（使用英語，一行，事實性，無行銷廢話）。
 
-歡迎投稿——請參閱 [CONTRIBUTING.md](CONTRIBUTING.md)。專案必須完全開源、可擴充、輕量化；請遵循描述風格指南（英文、一行、實事求是、無行銷花哨）。
-
-## 星星歷史
+## Star 歷史
 
 ![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
 
-此清單中星星數最多的專案之星星成長趨勢。本 repo 在審核期間為私有，公開後會在此處加入它自己的星星歷史。
+本列表中獲星最多的專案隨時間的 star 成長情況。倉庫在審核期間為私有；其自身的 star 歷史將在公開後新增至此。
 
 ## 授權條款
 

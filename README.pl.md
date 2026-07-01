@@ -28,8 +28,8 @@
   - [Inne](#inne)
 - [Otwarte źródło vs. benchmarki](#otwarte-źródło-vs-benchmarki)
 - [Jak wybrać](#jak-wybrać)
-- [Wkład 贡献](#wkład-贡献)
-- [Historia gwiazdek](#historia-gwiazdek)
+- [Współtworzenie](#współtworzenie)
+- [Historia Gwiazd](#historia-gwiazd)
 - [Licencja](#licencja)
 
 ## Benchmarki (zamkniętoźródłowe)
@@ -289,17 +289,15 @@ Projekty jeszcze nie przypisane do kategorii.
 - **Wprowadzanie z naciskiem na chiński** → [VocoType-linux](https://github.com/LeonardNJU/VocoType-linux) — Python, C++, Shell; offline'owe chińskie wprowadzanie głosem w Linux używające FunASR Paraformer, IBus/Fcitx5, hotkey PTT i polerowania zdań.
 - **Samodzielnie hostuj API/server transkrypcji** → [FunASR](https://github.com/modelscope/FunASR) — Przemysłowy zestaw narzędzi ASR z Paraformer, SenseVoice, VAD, diarizacją, strumieniowaniem i API kompatybilnym z OpenAI.
 
-## Wkład 贡献
+## Współtworzenie
 
-Wkłady są mile widziane — zobacz [CONTRIBUTING.md](CONTRIBUTING.md). Projekty muszą być w pełni otwartoźródłowe, rozszerzalne i lekkie; prosimy o przestrzeganie przewodnika stylu opisów (po angielsku, jedna linia, rzeczowe, bez marketingowego bełkotu).
+Wkłady są mile widziane — zobacz [CONTRIBUTING.md](CONTRIBUTING.md). Projekty muszą być w pełni open source, rozszerzalne i lekkie; postępuj zgodnie z przewodnikiem stylu opisów (po angielsku, jedna linia, rzeczowo, bez marketingowego bełkotu).
 
-欢迎投稿——请参阅 [CONTRIBUTING.md](CONTRIBUTING.md)。项目必须完全开源、可扩展、轻量级；请遵循描述风格指南（英文、一行、实事求是、无营销花哨）。
-
-## Historia gwiazdek
+## Historia Gwiazd
 
 ![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
 
-Wzrost gwiazdek na przestrzeni czasu dla najbardziej rozgwiazdziastych projektów na tej liście. Samo repozytorium jest prywatne podczas przeglądu; jego historia gwiazdek zostanie tu dodana, gdy stanie się publiczne.
+Wzrost liczby gwiazd na przestrzeni czasu dla najbardziej popularnych projektów na tej liście. Repozytorium jest prywatne podczas przeglądu; jego historia gwiazd zostanie tu dodana, gdy stanie się publiczne.
 
 ## Licencja
 

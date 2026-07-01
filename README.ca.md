@@ -29,7 +29,7 @@
 - [Codi obert vs. comparativa](#codi-obert-vs-comparativa)
 - [Com triar](#com-triar)
 - [Contribucions](#contribucions)
-- [Història d'estrelles](#història-destrelles)
+- [Historial d'Estrelles](#historial-destrelles)
 - [Llicència](#llicència)
 
 ## Comparativa (de codi tancat)
@@ -291,13 +291,13 @@ Projectes no assignats encara a cap categoria.
 
 ## Contribucions
 
-Les contribucions són benvingudes — consulteu [CONTRIBUTING.md](CONTRIBUTING.md). Els projectes han de ser totalment de codi obert, extensibles i lleugers; si us plau, seguiu la guia d'estil de les descripcions (anglès, una línia, factuel, sense bomba publicitària).
+Les contribucions són benvingudes — vegeu [CONTRIBUTING.md](CONTRIBUTING.md). Els projectes han de ser totalment de codi obert, extensibles i lleugers; si us plau, seguiu la guia d'estil de les descripcions (en anglès, una línia, factual, sense màrqueting buit).
 
-## Història d'estrelles
+## Historial d'Estrelles
 
 ![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
 
-Evolució de les estrelles al llarg del temps dels projectes amb més estrelles d'aquesta llista. El propi repo és privat durant la revisió; la seva història d'estrelles s'afegirà aquí quan es faci públic.
+Creixement d'estrelles al llarg del temps per als projectes més destacats d'aquesta llista. El repositori en si és privat durant la revisió; el seu propi historial d'estrelles s'afegirà aquí un cop sigui públic.
 
 ## Llicència
 

@@ -29,7 +29,7 @@
 - [Open-source vs benchmark](#open-source-vs-benchmark)
 - [Come scegliere](#come-scegliere)
 - [Contributi](#contributi)
-- [Cronologia delle stelle](#cronologia-delle-stelle)
+- [Cronologia delle Stelle](#cronologia-delle-stelle)
 - [Licenza](#licenza)
 
 ## Benchmark (a codice chiuso)
@@ -291,15 +291,13 @@ Progetti non ancora assegnati a una categoria.
 
 ## Contributi
 
-I contributi sono i benvenuti — consulta [CONTRIBUTING.md](CONTRIBUTING.md). I progetti devono essere completamente open-source, estendibili e leggeri; segui la guida allo stile delle descrizioni (in inglese, una riga, oggettiva, senza sparate marketing).
+I contributi sono benvenuti — vedi [CONTRIBUTING.md](CONTRIBUTING.md). I progetti devono essere completamente open source, estensibili e leggeri; segui la guida di stile per le descrizioni (in inglese, una riga, oggettiva, senza fronzoli di marketing).
 
-I contributi sono i benvenuti — consulta [CONTRIBUTING.md](CONTRIBUTING.md). I progetti devono essere completamente open-source, estendibili e leggeri; segui la guida allo stile delle descrizioni (in inglese, una riga, oggettiva, senza fronzoli pubblicitari).
-
-## Cronologia delle stelle
+## Cronologia delle Stelle
 
 ![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
 
-Evoluzione delle stelle nel tempo per i progetti più stellati di questa lista. Il repository stesso è privato durante la revisione; la sua cronologia delle stelle verrà aggiunta qui quando diventerà pubblico.
+Crescita delle stelle nel tempo per i progetti più stellati in questa lista. Il repository stesso è privato durante la revisione; la sua cronologia delle stelle verrà aggiunta qui una volta reso pubblico.
 
 ## Licenza
 

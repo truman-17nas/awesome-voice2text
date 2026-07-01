@@ -291,13 +291,13 @@ Android 或 iOS 上的独立语音转录应用，而非输入法键盘。
 
 ## 贡献
 
-欢迎投稿——请参阅 [CONTRIBUTING.md](CONTRIBUTING.md)。项目必须完全开源、可扩展、轻量；请遵循描述风格指南（英文、一行、实事求是、无营销花哨）。
+欢迎贡献 —— 参见 [CONTRIBUTING.md](CONTRIBUTING.md)。项目必须完全开源、可扩展且轻量；请遵循描述风格指南（使用英语，一行，事实性，无营销废话）。
 
 ## Star 历史
 
 ![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
 
-本列表中 Star 数最多项目的 Star 增长趋势。本仓库目前处于审核阶段且为私库，公开后会添加它自身的 Star 历史。
+本列表中获星最多的项目随时间的 star 增长情况。仓库在审核期间为私有；其自身的 star 历史将在公开后添加至此。
 
 ## 许可证
 

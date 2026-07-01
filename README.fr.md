@@ -28,8 +28,8 @@
   - [Autres](#autres)
 - [Open-source vs références](#open-source-vs-références)
 - [Comment choisir](#comment-choisir)
-- [Contribuer 贡献](#contribuer-贡献)
-- [Historique des étoiles](#historique-des-étoiles)
+- [Contribuer](#contribuer)
+- [Historique des Étoiles](#historique-des-étoiles)
 - [Licence](#licence)
 
 ## Références (Propriétaires)
@@ -289,17 +289,15 @@ Projets non encore assignés à une catégorie.
 - **Saisie chinoise prioritaire** → [VocoType-linux](https://github.com/LeonardNJU/VocoType-linux) — Python, C++, Shell ; saisie vocale chinoise hors ligne pour Linux utilisant FunASR Paraformer, IBus/Fcitx5, raccourci PTT et polissage de phrases.
 - **Héberger une API de transcription/serveur** → [FunASR](https://github.com/modelscope/FunASR) — Boîte à outils ASR industrielle avec Paraformer, SenseVoice, VAD, diarisation, streaming et API compatible OpenAI.
 
-## Contribuer 贡献
+## Contribuer
 
-Les contributions sont les bienvenues — voir [CONTRIBUTING.md](CONTRIBUTING.md). Les projets doivent être entièrement open-source, extensibles et légers ; veuillez suivre le guide de style des descriptions (anglais, une ligne, factuel, sans langage marketing).
+Les contributions sont les bienvenues — voir [CONTRIBUTING.md](CONTRIBUTING.md). Les projets doivent être entièrement open source, extensibles et légers; veuillez suivre le guide de style des descriptions (en anglais, une ligne, factuel, pas de langage publicitaire superflu).
 
-Les contributions sont les bienvenues — consultez [CONTRIBUTING.md](CONTRIBUTING.md). Les projets doivent être entièrement open source, extensibles et légers ; veuillez suivre le guide de style des descriptions (anglais, une ligne, factuel, sans langage promotionnel).
-
-## Historique des étoiles
+## Historique des Étoiles
 
 ![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
 
-Croissance des étoiles au fil du temps pour les projets les plus étoilés de cette liste. Le dépôt lui-même est privé pendant la revue ; son propre historique d'étoiles sera ajouté ici une fois qu'il sera public.
+Croissance des étoiles au fil du temps pour les projets les plus étoilés de cette liste. Le dépôt lui-même est privé pendant la révision; son propre historique d'étoiles sera ajouté ici une fois qu'il sera public.
 
 ## Licence
 

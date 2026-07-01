@@ -28,7 +28,7 @@
   - [Lainnya](#lainnya)
 - [Sumber Terbuka vs. Benchmark](#sumber-terbuka-vs-benchmark)
 - [Cara Memilih](#cara-memilih)
-- [Kontribusi](#kontribusi)
+- [Berkontribusi](#berkontribusi)
 - [Riwayat Bintang](#riwayat-bintang)
 - [Lisensi](#lisensi)
 
@@ -289,17 +289,15 @@ Proyek yang belum ditetapkan ke kategori.
 - **Input Mandarin utama** → [VocoType-linux](https://github.com/LeonardNJU/VocoType-linux) — Python, C++, Shell; Input suara Mandarin Linux offline menggunakan FunASR Paraformer, IBus/Fcitx5, hotkey PTT, dan pemolesan kalimat.
 - **Self-host API/server transkripsi** → [FunASR](https://github.com/modelscope/FunASR) — Toolkit ASR industri dengan Paraformer, SenseVoice, VAD, diarisasi, streaming, dan API yang kompatibel dengan OpenAI.
 
-## Kontribusi
+## Berkontribusi
 
-Kontribusi sangat welcome — lihat [CONTRIBUTING.md](CONTRIBUTING.md). Proyek harus sepenuhnya sumber terbuka, dapat diperluas, dan ringan; harap ikuti panduan gaya deskripsi (bahasa Inggris, satu baris, faktual, tanpa jargon pemasaran).
-
-Kontribusi diterima dengan senang hati — silakan lihat [CONTRIBUTING.md](CONTRIBUTING.md). Proyek harus sepenuhnya sumber terbuka, dapat diperluas, dan ringan; harap ikuti panduan gaya deskripsi (bahasa Inggris, satu baris, faktual, tanpa jargon pemasaran).
+Kontribusi sangat diterima — lihat [CONTRIBUTING.md](CONTRIBUTING.md). Proyek harus sepenuhnya open source, dapat diperluas, dan ringan; harap ikuti panduan gaya deskripsi (dalam bahasa Inggris, satu baris, faktual, tanpa bicara pemasaran).
 
 ## Riwayat Bintang
 
 ![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
 
-Pertumbuhan bintang dari waktu ke waktu untuk proyek dengan bintang terbanyak di daftar ini. Repo itu sendiri bersifat pribadi selama peninjauan; riwayat bintangnya akan ditambahkan di sini setelah dipublikasikan.
+Pertumbuhan bintang seiring waktu untuk proyek paling banyak dibintangi dalam daftar ini. Repo itu sendiri bersifat pribadi selama peninjauan; riwayat bintangnya sendiri akan ditambahkan di sini setelah repo menjadi publik.
 
 ## Lisensi
 

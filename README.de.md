@@ -291,13 +291,13 @@ Projekte, die noch keiner Kategorie zugeordnet sind.
 
 ## Mitwirken
 
-Beiträge sind willkommen — siehe [CONTRIBUTING.md](CONTRIBUTING.md). Projekte müssen vollständig quelloffen, erweiterbar und leichtgewichtig sein; bitte folge dem Beschreibungsstil (Englisch, eine Zeile, sachlich, kein Marketing-Blabla).
+Beiträge sind willkommen — siehe [CONTRIBUTING.md](CONTRIBUTING.md). Projekte müssen vollständig Open Source, erweiterbar und leichtgewichtig sein; bitte folge dem Stilguide für Beschreibungen (auf Englisch, eine Zeile, sachlich, kein Marketing-Blabla).
 
 ## Star-Verlauf
 
 ![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
 
-Star-Wachstum im Zeitverlauf für die am häufigsten mit Sternen versehenen Projekte in dieser Liste. Das Repo selbst ist während der Prüfung privat; seine eigene Star-Historie wird hier hinzugefügt, sobald es öffentlich wird.
+Star-Wachstum über Zeit für die am häufigsten mit Sternen versehenen Projekte in dieser Liste. Das Repository selbst ist während der Überprüfung privat; sein eigener Star-Verlauf wird hier hinzugefügt, sobald es öffentlich wird.
 
 ## Lizenz
 

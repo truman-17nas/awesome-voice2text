@@ -28,8 +28,8 @@
   - [기타](#기타)
 - [오픈 소스 대 벤치마크](#오픈-소스-대-벤치마크)
 - [선택 방법](#선택-방법)
-- [기여 贡献](#기여-贡献)
-- [Star History](#star-history)
+- [기여](#기여)
+- [Star 기록](#star-기록)
 - [라이선스](#라이선스)
 
 ## 벤치마크 (클로즈드 소스)
@@ -289,17 +289,15 @@ FunASR, Paraformer, SenseVoice 기반 중국어 IME 및 키보드를 포함한 �
 - **중국어 중심 입력** → [VocoType-linux](https://github.com/LeonardNJU/VocoType-linux) — Python, C++, Shell; FunASR Paraformer, IBus/Fcitx5, PTT 핫키, 문장 다듬기를 사용하는 Linux 오프라인 중국어 음성 입력.
 - **전사 API/서버 자체 호스팅** → [FunASR](https://github.com/modelscope/FunASR) — Paraformer, SenseVoice, VAD, 화자 분리, 스트리밍, OpenAI 호환 API를 갖춘 산업용 ASR 툴킷.
 
-## 기여 贡献
+## 기여
 
-기여는 환영합니다 — 자세한 내용은 [CONTRIBUTING.md](CONTRIBUTING.md)를 참조하세요. 프로젝트는 완전한 오픈 소스, 확장 가능, 경량이어야 합니다; 설명 스타일 가이드를 따르세요(영어, 한 줄, 사실적, 마케팅 과장 금지).
+기여를 환영합니다 — 자세한 내용은 [CONTRIBUTING.md](CONTRIBUTING.md)를 참조하세요. 프로젝트는 완전한 오픈 소스여야 하며, 확장 가능하고 가벼워야 합니다. 설명 스타일 가이드(영어로, 한 줄, 사실적, 마케팅 구애 없음)를 따르세요.
 
-참여를 환영합니다 — 자세한 내용은 [CONTRIBUTING.md](CONTRIBUTING.md)를 참조하세요. 프로젝트는 완전한 오픈 소스, 확장 가능, 경량이어야 하며; 설명 스타일 가이드(영어, 한 줄, 사실 기반, 마케팅 과장 배제)를 따라주세요.
-
-## Star History
+## Star 기록
 
 ![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
 
-이 목록에서 가장 스타가 많은 프로젝트의 시간별 성장. 리포지토리는 검토 중에는 비공개이며, 공개 후 자체 Star History가 여기에 추가될 예정입니다.
+이 목록에서 가장 많은 스타를 받은 프로젝트의 시간에 따른 스타 성장 추이입니다. 저장소 자체는 검토 기간 동안 비공개이며, 공개 후 해당 저장소의 스타 기록이 여기에 추가됩니다.
 
 ## 라이선스
 
