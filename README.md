@@ -6,6 +6,8 @@
 
 *If this list is useful, please ⭐ the repo — it helps others find it.*
 
+**Languages**: [English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português](README.pt-BR.md) · [Русский](README.ru.md) · [Italiano](README.it.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md) · [Nederlands](README.nl.md) · [Polski](README.pl.md) · [Türkçe](README.tr.md) · [Bahasa Indonesia](README.id.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [Українська](README.uk.md) · [Català](README.ca.md)
+
 ## Contents
 
 - [Benchmarks (Closed-Source)](#benchmarks-closed-source)
@@ -15,7 +17,7 @@
 - [All Projects](#all-projects)
 - [Categorized List](#categorized-list)
   - [Cross-Platform Desktop Real-Time Dictation](#cross-platform-desktop-real-time-dictation)
-  - [macOS Native Dictation](#macos-native-dictation)
+  - [Native macOS Dictation](#native-macos-dictation)
   - [AI Speech Cleanup / LLM Post-Processing](#ai-speech-cleanup-llm-post-processing)
   - [Local/Offline STT Engines and Toolkits](#localoffline-stt-engines-and-toolkits)
   - [System-Level Voice Input / IME](#system-level-voice-input-ime)
@@ -26,7 +28,8 @@
   - [Other](#other)
 - [Open-source vs. Benchmarks](#open-source-vs-benchmarks)
 - [How to Choose](#how-to-choose)
-- [Contributing](#contributing)
+- [Contributing 贡献](#contributing-贡献)
+- [Star History](#star-history)
 - [License](#license)
 
 ## Benchmarks (Closed-Source)
@@ -52,10 +55,10 @@ Typeless, Lazytype, and Shandianshuo (闪电说) are powerful but closed-source.
 🏆 **[Handy](https://github.com/cjpais/Handy)** — Cross-platform offline voice-to-text tool using Whisper or Parakeet, with global hotkeys and clipboard paste. *Community flagship — 25,281 stars, the most polished offering.*
 
 **Fit-5 picks** (meet all three criteria):
-- **[whisper.cpp](https://github.com/ggml-org/whisper.cpp)** — High-performance C/C++ port of OpenAI Whisper ASR with CPU/GPU inference, quantization, and cross-platform support.
+- **[whisper.cpp](https://github.com/ggml-org/whisper.cpp)** — High-performance C/C++ port of OpenAI Whisper with CPU/GPU inference, quantization and cross-platform support.
 - **[nerd-dictation](https://github.com/ideasman42/nerd-dictation)** — Linux offline speech-to-text tool using Vosk that simulates keyboard input into any application.
 - **[VoxType](https://github.com/peteonrails/voxtype)** — Linux and Wayland push-to-talk voice-to-text with seven local ASR engines, GPU support, and meeting mode.
-- **[voice_typing](https://github.com/themanyone/voice_typing)** — Lightweight Bash script for offline voice typing via Whisper, supporting Linux TTY, X11, Wayland, and WSL with optional LLM editing.
+- **[voice_typing](https://github.com/themanyone/voice_typing)** — Bash script for offline voice typing via Whisper for TTY, X11, Wayland, and WSL with optional LLM editing.
 
 ## All Projects
 
@@ -98,7 +101,7 @@ Typeless, Lazytype, and Shandianshuo (闪电说) are powerful but closed-source.
 | [SenseVoice](https://github.com/FunAudioLLM/SenseVoice) | 8,731 | MIT | Python, C/C++ | 3 | ⚠️ | ✅ | ✅ | ✅ |
 | [VoiceInk](https://github.com/Beingpax/VoiceInk) | 5,387 | GPL-3.0 | Swift, whisper.cpp | 3 | ✅ | ⚠️ | ✅ | ◐ |
 | [FluidVoice](https://github.com/altic-dev/FluidVoice) | 5,013 | GPL-3.0 | Swift | 3 | ⚠️ | ✅ | ⚠️ | ◐ |
-| [OpenWhispr](https://github.com/OpenWhispr/openwhispr) | 4,143 | MIT | TypeScript, React, Electron, Vite, Tailwind CSS, SQLite, whisper.cpp | 3 | ✅ | ✅ | ⚠️ | ◐ |
+| [OpenWhispr](https://github.com/OpenWhispr/openwhispr) | 4,143 | MIT | TypeScript, React, Electron, Vite, Tailwind CSS | 3 | ✅ | ✅ | ⚠️ | ◐ |
 | [Ghost Pepper](https://github.com/matthartman/ghost-pepper) | 2,800 | MIT | Swift | 3 | ✅ | ⚠️ | ⚠️ | ◐ |
 | [WhisperBoard](https://github.com/Saik0s/Whisperboard) | 1,040 | GPL-3.0 | Swift, SwiftUI, TCA, whisper.cpp, Tuist | 3 | ✅ | ⚠️ | ✅ | ⚠️ |
 | [Voquill](https://github.com/voquill/voquill) | 977 | AGPL-3.0 | TypeScript, Rust, React, Vite | 3 | ⚠️ | ✅ | ⚠️ | ⚠️ |
@@ -144,78 +147,78 @@ Typeless, Lazytype, and Shandianshuo (闪电说) are powerful but closed-source.
 Whisper-based desktop dictation apps for Linux, Windows, or cross-platform, with push-to-talk, local transcription, and auto-input.
 
 - [Handy](https://github.com/cjpais/Handy) — Cross-platform offline voice-to-text tool using Whisper or Parakeet, with global hotkeys and clipboard paste.
-- [Buzz](https://github.com/chidiwilliams/buzz) — Cross-platform desktop GUI for offline Whisper transcription and translation with GPU acceleration and live mic.
+- [Buzz](https://github.com/chidiwilliams/buzz) — Cross-platform desktop GUI for offline Whisper transcription and translation with GPU acceleration, live mic.
 - [Vibe](https://github.com/thewh1teagle/vibe) — Cross-platform desktop app for offline audio and video transcription using Whisper, with GPU acceleration.
 - [Epicenter](https://github.com/EpicenterHQ/epicenter) — Local-first app toolkit with Markdown/SQLite storage, Yjs CRDT sync, and a desktop speech-to-text utility.
-- [hyprwhspr](https://github.com/goodroot/hyprwhspr) — Linux-native speech-to-text with local Whisper and ONNX models, cloud APIs, Waybar integration, and a visualizer.
-- [whisper-writer](https://github.com/savbell/whisper-writer) — Desktop dictation app using Whisper locally or via API, triggered by global hotkey to type into active windows.
-- [Chirp](https://github.com/Whamp/chirp-stt) — Windows CPU-only dictation app using ParakeetV3, with hotkey toggle, clipboard paste injection, and word overrides.
+- [hyprwhspr](https://github.com/goodroot/hyprwhspr) — Linux-native speech-to-text with local Whisper and ONNX models, cloud APIs, Waybar integration, visualizer.
+- [whisper-writer](https://github.com/savbell/whisper-writer) — Desktop dictation app using Whisper locally or via API, triggered by global hotkey to type into active window.
+- [Chirp](https://github.com/Whamp/chirp-stt) — Windows CPU-only dictation app using ParakeetV3, with hotkey toggle, clipboard paste, and word overrides.
 - [Dabri](https://github.com/AshBuk/dabri) — Linux offline STT app using whisper.cpp with daemon, CLI, and WebSocket modes for X11/Wayland desktops.
 - [dsnote (Speech Note)](https://github.com/mkiol/dsnote) — Linux and Sailfish OS offline note-taking app with local STT, TTS, and translation using multiple engines.
-- [voxd](https://github.com/jakovius/voxd) — Linux desktop voice dictation using whisper.cpp for offline ASR, with simulated typing via ydotool and optional AI post-processing.
-- [Speed of Sound](https://github.com/zugaldia/speedofsound) — Linux offline voice typing via Whisper, Parakeet, or Canary ONNX, with X11/Wayland support and optional LLM polish.
-- [better-voice-typing](https://github.com/Elevate-Code/better-voice-typing) — Windows voice-typing assistant using Caps Lock hotkey, with multi-provider STT and optional LLM transcript refinement.
-- [speech-assistant](https://github.com/Mohamad-Hussein/speech-assistant) — Cross-platform offline dictation app using distil-whisper with hotkey control and optional local LLM assistant.
+- [voxd](https://github.com/jakovius/voxd) — Linux desktop voice dictation using whisper.cpp for offline ASR with ydotool typing and AI post-processing.
+- [Speed of Sound](https://github.com/zugaldia/speedofsound) — Linux offline voice typing via Whisper, Parakeet, or Canary ONNX, with X11/Wayland support and LLM polish.
+- [better-voice-typing](https://github.com/Elevate-Code/better-voice-typing) — Windows voice-typing assistant using Caps Lock hotkey, with multi-provider STT and optional LLM refinement.
+- [speech-assistant](https://github.com/Mohamad-Hussein/speech-assistant) — Cross-platform offline dictation app with distil-whisper, hotkey control, and optional local LLM assistant.
 - [TalkType](https://github.com/lmacan1/talktype) — Cross-platform push-to-talk voice typing using faster-whisper, with global hotkeys and smart paste.
-- [faster-whisper-dictation](https://github.com/doctorguile/faster-whisper-dictation) — Offline multilingual dictation app using Faster-Whisper, triggered by global hotkey to transcribe and type into active field.
+- [faster-whisper-dictation](https://github.com/doctorguile/faster-whisper-dictation) — Offline multilingual dictation app using Faster-Whisper, triggered by hotkey to transcribe into active field.
 - [whisper-dictation](https://github.com/jacopone/whisper-dictation) — NixOS/Wayland local voice dictation using whisper.cpp with GTK4 feedback and 99-language support.
 - [freespeak](https://github.com/Zetaphor/freespeak) — Linux Wayland voice dictation app with STT, grammar correction via LanguageTool, and ydotool text input.
 - [whisper_dictation](https://github.com/themanyone/whisper_dictation) — Local AI desktop agent combining voice dictation, LLM chat, image generation, and voice-driven automation.
-- [OmniDictate](https://github.com/gurjar1/OmniDictate) — Windows desktop real-time speech-to-text tool using faster-whisper, with keyboard simulation, VAD, PTT, and spoken punctuation.
+- [OmniDictate](https://github.com/gurjar1/OmniDictate) — Windows desktop speech-to-text using faster-whisper with keyboard simulation, VAD, PTT, and punctuation.
 - [Whisper-Dictation](https://github.com/LumenYoung/Whisper-Dictation) — Whisper voice dictation for KDE Wayland with background daemon, systemd service, and clipboard paste.
 
-### macOS Native Dictation
+### Native macOS Dictation
 
 Native macOS dictation apps built with Swift and WhisperKit, supporting global hotkeys, menu bar, and Neural Engine acceleration.
 
-- [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) — macOS real-time speech transcription app with Whisper and Parakeet dual engines, global hotkeys, and drag-and-drop batch processing.
+- [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) — A macOS speech transcription app with Whisper and Parakeet engines, global hotkeys, and batch processing.
 - [Pindrop](https://github.com/watzon/pindrop) — Native macOS menu-bar dictation app using WhisperKit for offline STT, with hotkeys and optional AI cleanup.
-- [whisper-dictation](https://github.com/foges/whisper-dictation) — Offline multilingual dictation tool using Whisper, triggered by global hotkey to transcribe and type into any input field.
-- [FnKey](https://github.com/evoleinik/fnkey) — macOS menu-bar app that transcribes speech via Deepgram Nova-3 while Fn is held and pastes the result.
-- [hush](https://github.com/djmunro/hush) — macOS push-to-talk dictation using local Whisper/Parakeet ONNX with auto-paste to cursor via hotkey.
-- [WhisperDictation](https://github.com/sam-pop/WhisperDictation) — macOS menu-bar dictation app using offline Whisper with Metal GPU acceleration and cursor text injection.
-- [whisper-dictation](https://github.com/ashwin-pc/whisper-dictation) — macOS menu bar app that records on Globe/Fn key release, transcribes locally via faster-whisper, and pastes at cursor.
+- [whisper-dictation](https://github.com/foges/whisper-dictation) — Offline multilingual dictation tool using Whisper, triggered by hotkey to transcribe into any input field.
+- [FnKey](https://github.com/evoleinik/fnkey) — A macOS menu-bar app that transcribes speech via Deepgram Nova-3 while Fn is held and pastes the result.
+- [hush](https://github.com/djmunro/hush) — A macOS push-to-talk dictation app using local Whisper/Parakeet ONNX with auto-paste via hotkey.
+- [WhisperDictation](https://github.com/sam-pop/WhisperDictation) — A macOS menu-bar dictation app using offline Whisper with Metal GPU acceleration and cursor text injection.
+- [whisper-dictation](https://github.com/ashwin-pc/whisper-dictation) — Apple macOS menu-bar app records on Globe/Fn release, transcribes via faster-whisper, and pastes at cursor.
 
 ### AI Speech Cleanup / LLM Post-Processing
 
 Dictation tools using local or cloud LLMs to polish, format, summarize, and restyle speech recognition output into clean, formal text.
 
-- [typewhisper-mac](https://github.com/TypeWhisper/typewhisper-mac) — macOS dictation app with on-device and cloud STT, global hotkeys, AI workflows, plugin system, REST API, and CLI.
+- [typewhisper-mac](https://github.com/TypeWhisper/typewhisper-mac) — A macOS dictation app with on-device and cloud STT, global hotkeys, AI workflows, plugins, REST API, and CLI.
 - [Amical](https://github.com/amicalhq/amical) — Local-first AI dictation app using Whisper for offline transcription and Ollama for smart note processing.
 - [VoiceTypr](https://github.com/moinulmoin/voicetypr) — Offline voice dictation tool for macOS/Windows using Whisper, with global hotkeys and optional AI enhancement.
-- [HoldSpeak](https://github.com/karolswdev/HoldSpeak) — Local-first voice assistant for macOS and Linux with push-to-talk input, meeting transcription, and plugin-based structured extraction.
-- [QuickDictate](https://github.com/kristian-dott-42/QuickDictate) — macOS push-to-talk dictation app using Whisper and LLM cleanup, pasting polished text at cursor via simulated Cmd-V.
-- [Voicisst](https://github.com/lucyfromnaarm/voicisst) — Local voice dictation using Whisper and LLM polishing, with push-to-talk, personal dictionary, and client-server split.
+- [HoldSpeak](https://github.com/karolswdev/HoldSpeak) — Local-first voice assistant for macOS and Linux with push-to-talk, transcription, and plugin extraction.
+- [QuickDictate](https://github.com/kristian-dott-42/QuickDictate) — A macOS push-to-talk dictation app using Whisper and LLM cleanup, pasting polished text via Cmd-V.
+- [Voicisst](https://github.com/lucyfromnaarm/voicisst) — Local voice dictation with Whisper and LLM polishing, push-to-talk, dictionary, and client-server split.
 - [VoiceFlow](https://github.com/infiniV/VoiceFlow) — Local voice dictation and meeting recorder with faster-whisper, LLM summaries, and dual-track audio capture.
 - [VoiceInk](https://github.com/Beingpax/VoiceInk) — Native macOS voice-to-text app using local whisper.cpp models, with global shortcuts and context-aware modes.
-- [FluidVoice](https://github.com/altic-dev/FluidVoice) — macOS dictation app with on-device speech recognition and optional AI post-processing for formatting and text.
-- [OpenWhispr](https://github.com/OpenWhispr/openwhispr) — Cross-platform desktop voice transcription app with global hotkeys, AI assistant, meeting diarization, and semantic search notes.
-- [Ghost Pepper](https://github.com/matthartman/ghost-pepper) — macOS menu bar app for offline speech-to-text and meeting summaries using local Whisper and Qwen models on Apple Silicon.
+- [FluidVoice](https://github.com/altic-dev/FluidVoice) — A macOS dictation app with on-device speech recognition and optional AI post-processing for formatting.
+- [OpenWhispr](https://github.com/OpenWhispr/openwhispr) — Desktop voice transcription app with hotkeys, AI assistant, meeting diarization, and semantic search.
+- [Ghost Pepper](https://github.com/matthartman/ghost-pepper) — A macOS menu-bar app for offline speech-to-text and meeting summaries using Whisper and Qwen on Apple Silicon.
 - [Voquill](https://github.com/voquill/voquill) — Cross-platform Tauri voice typing app with local Whisper or Groq, AI cleanup, glossary, and voice assistant.
-- [Tambourine Voice](https://github.com/kstonekuan/tambourine-voice) — Cross-platform voice dictation assistant with LLM formatting, supporting local Whisper and Ollama or cloud APIs.
+- [Tambourine Voice](https://github.com/kstonekuan/tambourine-voice) — Cross-platform voice dictation assistant with LLM formatting, supporting local Whisper, Ollama or cloud APIs.
 - [OpenTypeless](https://github.com/tover0314-w/opentypeless) — Cross-platform Tauri app for AI voice typing, text rewriting, and voice Q&A with global hotkeys.
 - [Aria](https://github.com/Xingxun7777/Aria) — Windows AI voice input using offline Qwen3-ASR with OCR context, hot word correction, and voice commands.
-- [OpenFlow](https://github.com/SadmanMahi67/OpenFlow) — Windows voice dictation using whisper.cpp with Groq or llama.cpp refinement, multiple styles, and auto-paste to active window.
-- [localflow](https://github.com/sidharth-n/localflow) — Local cross-platform voice dictation using Moonshine STT and Qwen3-4B polish LLM, with push-to-talk and skip-gate heuristic.
-- [yammer](https://github.com/andynu/yammer) — Linux local speech-to-text with Whisper and LLM cleanup, featuring Tauri overlay UI and xdotool input injection.
+- [OpenFlow](https://github.com/SadmanMahi67/OpenFlow) — Windows voice dictation using whisper.cpp, Groq or llama.cpp, multiple styles, auto-paste to active window.
+- [localflow](https://github.com/sidharth-n/localflow) — Local cross-platform voice dictation using Moonshine STT, Qwen3-4B polisher, push-to-talk, and skip-gate.
+- [yammer](https://github.com/andynu/yammer) — Linux local speech-to-text with Whisper and LLM cleanup, plus Tauri overlay UI and xdotool input injection.
 
 ### Local/Offline STT Engines and Toolkits
 
 Offline ASR engines and speech toolkits for app integration: Whisper, Kaldi, ONNX, Vosk, FunASR, PaddleSpeech, and SenseVoice.
 
-- [whisper.cpp](https://github.com/ggml-org/whisper.cpp) — High-performance C/C++ port of OpenAI Whisper ASR with CPU/GPU inference, quantization, and cross-platform support.
+- [whisper.cpp](https://github.com/ggml-org/whisper.cpp) — High-performance C/C++ port of OpenAI Whisper with CPU/GPU inference, quantization and cross-platform support.
 - [FunASR](https://github.com/modelscope/FunASR) — Industrial ASR toolkit with Paraformer, SenseVoice, VAD, diarization, streaming, and OpenAI-compatible API.
 - [vosk-api](https://github.com/alphacep/vosk-api) — Offline speech recognition toolkit with small CPU-only models for 20+ languages and multi-language bindings.
 - [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) — Offline speech toolkit using next-gen Kaldi and ONNX Runtime for STT, TTS, speaker ID, VAD, and more.
 - [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) — Comprehensive speech toolkit with ASR, TTS, voiceprint, diarization, translation, and streaming services.
-- [SenseVoice](https://github.com/FunAudioLLM/SenseVoice) — Multilingual speech model with ASR for 50+ languages, emotion and audio event detection, and fast non-autoregressive inference.
+- [SenseVoice](https://github.com/FunAudioLLM/SenseVoice) — Speech model with ASR for 50+ languages, emotion, audio events, and fast non-autoregressive inference.
 
 ### System-Level Voice Input / IME
 
 Voice input solutions integrated at the system level, including input methods, IBus/Fcitx extensions, Android IME, and iOS keyboards.
 
 - [Whisper IME](https://github.com/woheller69/whisperIME) — Android IME and voice input service using Whisper for offline speech recognition and English translation.
-- [Vocalinux](https://github.com/jatinkrmalik/vocalinux) — Offline Linux voice dictation app with whisper.cpp, Whisper, and VOSK engines, Vulkan GPU, and GTK settings GUI.
+- [Vocalinux](https://github.com/jatinkrmalik/vocalinux) — Offline Linux voice dictation app with whisper.cpp, Whisper, and VOSK engines, Vulkan GPU, and GTK GUI.
 - [blurt](https://github.com/QuantiusBenignus/blurt) — GNOME Shell extension for offline voice input via whisper.cpp with hotkey trigger, supporting X11 and Wayland.
 - [Vosk Android Service](https://github.com/alphacep/vosk-android-service) — Android offline speech recognition service using Vosk with standard RecognitionService API support.
 - [Dictus](https://github.com/getdictus/dictus-ios) — Open-source iOS keyboard for on-device voice dictation using WhisperKit and CoreML, works in any app.
@@ -225,15 +228,15 @@ Voice input solutions integrated at the system level, including input methods, I
 
 Projects optimized for Chinese speech recognition and input, including FunASR, Paraformer, and SenseVoice-based Chinese IMEs and keyboards.
 
-- [VocoType-linux](https://github.com/LeonardNJU/VocoType-linux) — Offline Linux Chinese voice input method using FunASR Paraformer with IBus/Fcitx5, hotkey PTT, and sentence polishing.
-- [voice-input-method](https://github.com/pofice/voice-input-method) — Cross-platform offline voice input method using FunASR, with hotword correction, auto-paste, and GUI/CLI modes.
+- [VocoType-linux](https://github.com/LeonardNJU/VocoType-linux) — Offline Linux Chinese voice input using FunASR Paraformer, IBus/Fcitx5, PTT hotkey, and sentence polishing.
+- [voice-input-method](https://github.com/pofice/voice-input-method) — Cross-platform offline voice input method using FunASR, with hotword correction, auto-paste and GUI/CLI modes.
 - [BiBi-Keyboard](https://github.com/BryceWG/BiBi-Keyboard) — Android voice input keyboard with 11 ASR engines, LLM post-processing, floating ball, and Material3 UI.
 
 ### Browser & Web Voice Input
 
 Browser-based voice input via extensions, WebAssembly wrappers, or Web UIs, typically requiring a local or cloud STT backend.
 
-- [Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI) — Gradio-based Whisper WebUI for subtitle generation from files, YouTube, or mic, with VAD, BGM separation, and diarization.
+- [Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI) — Gradio Whisper WebUI for subtitles from files, YouTube, or mic, with VAD, BGM separation, and diarization.
 - [Vosk-STT-Chrome-Extension](https://github.com/crrrowz/Vosk-STT-Chrome-Extension) — Browser extension for real-time offline speech-to-text via Vosk, with Arabic and English voice commands.
 - [vosk-browser](https://github.com/ccoreilly/vosk-browser) — Browser-based offline speech recognition library packaging Vosk as WebAssembly running in a WebWorker.
 - [Speechfire](https://github.com/Jejkobb/Speechfire) — Browser extension and local Whisper server for offline speech-to-text in Firefox and Chrome via Alt+A.
@@ -245,17 +248,17 @@ Browser-based voice input via extensions, WebAssembly wrappers, or Web UIs, typi
 Standalone voice transcription apps on Android or iOS, rather than input method keyboards.
 
 - [Transcribro](https://github.com/soupslurpr/Transcribro) — Private on-device speech recognition keyboard for Android using Whisper via whisper.cpp and Silero VAD.
-- [WhisperBoard](https://github.com/Saik0s/Whisperboard) — Open-source iOS app for offline voice transcription using Whisper.cpp, with recording, model management, and audio export.
-- [seamless](https://github.com/woheller69/seamless) — Android offline speech-to-text translation app using Meta Seamless M4T Lite for five languages with TTS output.
+- [WhisperBoard](https://github.com/Saik0s/Whisperboard) — Open-source iOS app for offline voice transcription using Whisper.cpp, with recording and audio export.
+- [seamless](https://github.com/woheller69/seamless) — Android offline speech-to-text translation app using Meta Seamless M4T Lite for 5 languages with TTS output.
 
 ### Lightweight Scripts, CLI & Voice Control
 
 Lightweight scripts, CLI tools, tray triggers, or utilities suited for developer integration or as supplements to existing toolchains.
 
 - [nerd-dictation](https://github.com/ideasman42/nerd-dictation) — Linux offline speech-to-text tool using Vosk that simulates keyboard input into any application.
-- [voice_typing](https://github.com/themanyone/voice_typing) — Lightweight Bash script for offline voice typing via Whisper, supporting Linux TTY, X11, Wayland, and WSL with optional LLM editing.
-- [hns](https://github.com/primaprashant/hns) — CLI tool for local microphone speech-to-text using faster-whisper, with clipboard copy and stdout piping for CLI workflows.
-- [Elograf](https://github.com/papoteur-mga/elograf) — PyQt6-based GUI manager for nerd-dictation with system tray controls, Vosk model management, input simulation, and KDE hotkeys.
+- [voice_typing](https://github.com/themanyone/voice_typing) — Bash script for offline voice typing via Whisper for TTY, X11, Wayland, and WSL with optional LLM editing.
+- [hns](https://github.com/primaprashant/hns) — CLI tool for local microphone speech-to-text using faster-whisper, with clipboard copy and stdout piping.
+- [Elograf](https://github.com/papoteur-mga/elograf) — PyQt6 GUI manager for nerd-dictation with system tray, Vosk models, input simulation, and KDE hotkeys.
 - [Osprey](https://github.com/osprey-voice/osprey) — Command-based voice control and typing tool using Kaldi and Dragonfly for fully local speech recognition.
 
 ### Other
@@ -283,12 +286,20 @@ Projects not yet assigned to a category.
 - **Polished cross-platform desktop app** → [Handy](https://github.com/cjpais/Handy) — Rust/Tauri, 25,281 stars, Whisper/Parakeet offline.
 - **Minimal Linux offline, scriptable** → [nerd-dictation](https://github.com/ideasman42/nerd-dictation) — VOSK, simulates keyboard input into any app.
 - **Embed STT in your own app** → [whisper.cpp](https://github.com/ggml-org/whisper.cpp) — C/C++ Whisper, CPU/GPU, embeddable.
-- **Chinese-first input** → [VocoType-linux](https://github.com/LeonardNJU/VocoType-linux) — Python, C++, Shell; Offline Linux Chinese voice input method using FunASR Paraformer with IBus/Fcitx5, hotkey PTT, and sentence polishing.
+- **Chinese-first input** → [VocoType-linux](https://github.com/LeonardNJU/VocoType-linux) — Python, C++, Shell; Offline Linux Chinese voice input using FunASR Paraformer, IBus/Fcitx5, PTT hotkey, and sentence polishing.
 - **Self-host a transcription API/server** → [FunASR](https://github.com/modelscope/FunASR) — Industrial ASR toolkit with Paraformer, SenseVoice, VAD, diarization, streaming, and OpenAI-compatible API.
 
-## Contributing
+## Contributing 贡献
 
 Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Projects must be fully open source, extensible, and lightweight; please follow the description style guide (English, one line, factual, no marketing fluff).
+
+欢迎投稿——请参阅 [CONTRIBUTING.md](CONTRIBUTING.md)。项目必须完全开源、可扩展、轻量级；请遵循描述风格指南（英文、一行、实事求是、无营销花哨）。
+
+## Star History
+
+![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
+
+Star growth over time for the most-starred projects in this list. The repo itself is private during review; its own star history will be added here once it goes public.
 
 ## License
 
