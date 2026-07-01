@@ -297,9 +297,13 @@ Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Projects m
 
 ## Star History
 
-![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date&theme=light">
+  <img alt="Star History" src="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date">
+</picture>
 
-Star growth over time for the most-starred projects in this list. The repo itself is private during review; its own star history will be added here once it goes public.
+Star growth over time for the most-starred projects in this list, including this repository.
 
 ## License
 

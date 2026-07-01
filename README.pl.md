@@ -295,9 +295,13 @@ Wkłady są mile widziane — zobacz [CONTRIBUTING.md](CONTRIBUTING.md). Projekt
 
 ## Historia Gwiazd
 
-![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date&theme=light">
+  <img alt="Star History" src="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date">
+</picture>
 
-Wzrost liczby gwiazd na przestrzeni czasu dla najbardziej popularnych projektów na tej liście. Repozytorium jest prywatne podczas przeglądu; jego historia gwiazd zostanie tu dodana, gdy stanie się publiczne.
+Wzrost gwiazd w czasie dla najbardziej gwiazdowanych projektów na tej liście, w tym tego repozytorium.
 
 ## Licencja
 

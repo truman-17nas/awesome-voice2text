@@ -295,9 +295,13 @@ Les contribucions són benvingudes — vegeu [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Historial d'Estrelles
 
-![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date&theme=light">
+  <img alt="Star History" src="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date">
+</picture>
 
-Creixement d'estrelles al llarg del temps per als projectes més destacats d'aquesta llista. El repositori en si és privat durant la revisió; el seu propi historial d'estrelles s'afegirà aquí un cop sigui públic.
+Creixement d'estrelles al llarg del temps per als projectes amb més estrelles d'aquesta llista, inclòs aquest repositori.
 
 ## Llicència
 

@@ -295,9 +295,13 @@ Android या iOS पर स्वतंत्र आवाज़ प्रत�
 
 ## Star इतिहास
 
-![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date&theme=light">
+  <img alt="Star History" src="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date">
+</picture>
 
-इस सूची में सबसे अधिक star वाली परियोजनाओं का समय के साथ star विकास। रिपॉजिटरी स्वयं समीक्षा के दौरान निजी है; सार्वजनिक होने पर इसका अपना star इतिहास यहाँ जोड़ा जाएगा।
+इस लिस्ट में सबसे ज़्यादा स्टार वाली प्रोजेक्ट्स के समय के साथ स्टार वृद्धि का रुझान, इस रिपॉजिटरी को शामिल करके।
 
 ## लाइसेंस
 

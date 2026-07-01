@@ -295,9 +295,13 @@ Beiträge sind willkommen — siehe [CONTRIBUTING.md](CONTRIBUTING.md). Projekte
 
 ## Star-Verlauf
 
-![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date&theme=light">
+  <img alt="Star History" src="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date">
+</picture>
 
-Star-Wachstum über Zeit für die am häufigsten mit Sternen versehenen Projekte in dieser Liste. Das Repository selbst ist während der Überprüfung privat; sein eigener Star-Verlauf wird hier hinzugefügt, sobald es öffentlich wird.
+Star-Wachstum im Laufe der Zeit für die beliebtesten Projekte in dieser Liste, einschließlich dieses Repositorys.
 
 ## Lizenz
 

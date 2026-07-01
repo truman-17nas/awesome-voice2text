@@ -295,9 +295,13 @@ Kontribusi sangat diterima — lihat [CONTRIBUTING.md](CONTRIBUTING.md). Proyek 
 
 ## Riwayat Bintang
 
-![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date&theme=light">
+  <img alt="Star History" src="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date">
+</picture>
 
-Pertumbuhan bintang seiring waktu untuk proyek paling banyak dibintangi dalam daftar ini. Repo itu sendiri bersifat pribadi selama peninjauan; riwayat bintangnya sendiri akan ditambahkan di sini setelah repo menjadi publik.
+Pertumbuhan bintang dari waktu ke waktu untuk proyek dengan bintang terbanyak dalam daftar ini, termasuk repositori ini.
 
 ## Lisensi
 

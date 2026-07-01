@@ -295,9 +295,13 @@ FunASR, Paraformer, SenseVoice 기반 중국어 IME 및 키보드를 포함한 �
 
 ## Star 기록
 
-![Star History](https://api.star-history.com/svg?repos=cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date&theme=light">
+  <img alt="Star History" src="https://api.star-history.com/svg?repos=Lxcardoza993/awesome-voice-input,cjpais/Handy,ggml-org/whisper.cpp,FunAudioLLM/SenseVoice,mkiol/dsnote,ideasman42/nerd-dictation,peteonrails/voxtype&type=Date">
+</picture>
 
-이 목록에서 가장 많은 스타를 받은 프로젝트의 시간에 따른 스타 성장 추이입니다. 저장소 자체는 검토 기간 동안 비공개이며, 공개 후 해당 저장소의 스타 기록이 여기에 추가됩니다.
+이 목록에서 별표가 가장 많은 프로젝트의 시간에 따른 별표 수 증가 추세, 이 저장소 포함.
 
 ## 라이선스
 
