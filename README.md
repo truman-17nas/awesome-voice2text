@@ -94,13 +94,6 @@ Typeless, Lazytype, and Shandianshuo (闪电说) are powerful but closed-source.
 | [QuickDictate](https://github.com/kristian-dott-42/QuickDictate) | 1 | MIT | Swift | 4 | ✅ | ✅ | ✅ | ⚠️ |
 | [Voicisst](https://github.com/lucyfromnaarm/voicisst) | 0 | MIT | Python | 4 | ✅ | ✅ | ⚠️ | ◐ |
 | [Cadenza](https://github.com/DragonKingIO/Cadenza-voice) | 3 | MIT | Swift | 4 | ✅ | ✅ | ✅ | ✅ |
-| [Cadenza](https://github.com/DragonKingIO/Cadenza-voice) | 3 | MIT | Swift | 4 | ✅ | ✅ | ✅ | ✅ |
-| [Cadenza](https://github.com/DragonKingIO/Cadenza-voice) | 3 | MIT | Swift | 4 | ✅ | ✅ | ✅ | ✅ |
-| [Cadenza](https://github.com/DragonKingIO/Cadenza-voice) | 3 | MIT | Swift | 4 | ✅ | ✅ | ✅ | ✅ |
-| [Cadenza](https://github.com/DragonKingIO/Cadenza-voice) | 3 | MIT | Swift | 4 | ✅ | ✅ | ✅ | ✅ |
-| [Cadenza](https://github.com/DragonKingIO/Cadenza-voice) | 3 | MIT | Swift | 4 | ✅ | ✅ | ✅ | ✅ |
-| [Cadenza](https://github.com/DragonKingIO/Cadenza-voice) | 3 | MIT | Swift | 4 | ✅ | ✅ | ✅ | ✅ |
-| [Cadenza](https://github.com/DragonKingIO/Cadenza-voice) | 3 | MIT | Swift | 4 | ✅ | ✅ | ✅ | ✅ |
 | [dsnote (Speech Note)](https://github.com/mkiol/dsnote) | 1,525 | MPL-2.0 | C++17, Qt5/QML, CMake, Python | 3.5 | ✅ | ⚠️ | ⚠️ | ✅ || [VoiceFlow](https://github.com/infiniV/VoiceFlow) | 393 | MIT | Python, React, Vite, faster-whisper | 3.5 | ✅ | ⚠️ | ✅ | ◐ |
 | [voice-input-method](https://github.com/pofice/voice-input-method) | 38 | GPL-3.0-or-later | Python 3.10+ | 3.5 | ✅ | ✅ | ✅ | ✅ |
 | [Vosk-STT-Chrome-Extension](https://github.com/crrrowz/Vosk-STT-Chrome-Extension) | 0 | MIT | JavaScript (Manifest V3), Python | 3.5 | ⚠️ | ✅ | ✅ | ⚠️ |
